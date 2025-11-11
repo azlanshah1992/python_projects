@@ -1,0 +1,13 @@
+# Core NLP
+spacy==3.7.1
+
+# PDF and DOCX handling
+pdfplumber==0.9.0
+docx2txt==0.8
+
+# GUI
+tkinter==0.1.0  # Note: usually comes pre-installed with Python
+
+# Optional: Utilities for future expansion
+pandas==2.1.1
+numpy==1.26.4
