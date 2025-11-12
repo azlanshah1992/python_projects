@@ -17,19 +17,33 @@
 ## Project Files
 
 File: spike_detector.py
+
 Purpose: The core Python script that checks the load, triggers diagnostics, and creates archives.
+
 Location: /home/ec2-user/
+
 --
+
 File: dashboard_server.py
+
 Purpose: The Python web server script that hosts the dashboard and manages file downloads.
+
 Location: /home/ec2-user/
+
 --
+
 File: spike_detector.log
+
 Purpose: The primary log file where all execution details (load checks, spikes) are recorded.
+
 Location: /home/ec2-user/
+
 --
+
 File/Folder: diagnostics/
+
 Purpose: Directory where all captured .tar.gz archive files are stored.
+
 Location: /home/ec2-user/diagnostics/
 
 ---
@@ -62,7 +76,7 @@ Open the crontab editor (Vim or Nano):
 
 Add the following line to the end of the file, replacing <PATH_TO_PYTHON> with your absolute Python path (usually /usr/bin/python3 or similar):
 
-	*/5 * * * * <PATH_TO_PYTHON> /home/ec2-user/spike_detector.py >> /home/ec2-user/spike_detector.log 2>&1
+	* * * * * <PATH_TO_PYTHON> <PATH_TO_MAIN>/spike_detector.py >> <PATH_FOR_NEW_LOGFILE>/spike_detector.log 2>&1
 
 
 Save and exit (in vim, press escape sequence, then :wq, then Enter).
