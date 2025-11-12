@@ -1,0 +1,2 @@
+# For retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors)
+psutil

@@ -1,0 +1,429 @@
+[2025-11-12 09:20:01] Current 5-minute Load Average: 0.08 (Threshold: 2.00)
+[2025-11-12 09:20:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:20:01] Starting archive cleanup...
+[2025-11-12 09:20:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:21:01] Current 5-minute Load Average: 0.61 (Threshold: 2.00)
+[2025-11-12 09:21:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:21:01] Starting archive cleanup...
+[2025-11-12 09:21:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:22:01] Current 5-minute Load Average: 1.05 (Threshold: 2.00)
+[2025-11-12 09:22:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:22:01] Starting archive cleanup...
+[2025-11-12 09:22:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:23:01] Current 5-minute Load Average: 1.41 (Threshold: 2.00)
+[2025-11-12 09:23:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:23:01] Starting archive cleanup...
+[2025-11-12 09:23:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:24:01] Current 5-minute Load Average: 1.65 (Threshold: 2.00)
+[2025-11-12 09:24:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:24:01] Starting archive cleanup...
+[2025-11-12 09:24:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:25:01] Current 5-minute Load Average: 1.86 (Threshold: 2.00)
+[2025-11-12 09:25:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:25:01] Starting archive cleanup...
+[2025-11-12 09:25:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:26:02] Current 5-minute Load Average: 2.07 (Threshold: 2.00)
+[2025-11-12 09:26:02] Threshold exceeded. Starting diagnostic data capture...
+[2025-11-12 09:26:02] Successfully captured top_snapshot
+[2025-11-12 09:26:02] Successfully captured vmstat_snapshot
+[2025-11-12 09:26:02] Successfully captured netstat_connections
+[2025-11-12 09:26:02] Successfully captured disk_usage
+[2025-11-12 09:26:02] Successfully created archive: spike_diag_20251112_092602.tar.gz
+[2025-11-12 09:26:02] Starting archive cleanup...
+[2025-11-12 09:26:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:27:01] Current 5-minute Load Average: 2.24 (Threshold: 2.00)
+[2025-11-12 09:27:01] Threshold exceeded. Starting diagnostic data capture...
+[2025-11-12 09:27:01] Successfully captured top_snapshot
+[2025-11-12 09:27:01] Successfully captured vmstat_snapshot
+[2025-11-12 09:27:01] Successfully captured netstat_connections
+[2025-11-12 09:27:01] Successfully captured disk_usage
+[2025-11-12 09:27:01] Successfully created archive: spike_diag_20251112_092701.tar.gz
+[2025-11-12 09:27:01] Starting archive cleanup...
+[2025-11-12 09:27:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:28:02] Current 5-minute Load Average: 2.38 (Threshold: 2.00)
+[2025-11-12 09:28:02] Threshold exceeded. Starting diagnostic data capture...
+[2025-11-12 09:28:02] Successfully captured top_snapshot
+[2025-11-12 09:28:02] Successfully captured vmstat_snapshot
+[2025-11-12 09:28:02] Successfully captured netstat_connections
+[2025-11-12 09:28:02] Successfully captured disk_usage
+[2025-11-12 09:28:02] Successfully created archive: spike_diag_20251112_092802.tar.gz
+[2025-11-12 09:28:02] Starting archive cleanup...
+[2025-11-12 09:28:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:29:01] Current 5-minute Load Average: 2.50 (Threshold: 2.00)
+[2025-11-12 09:29:01] Threshold exceeded. Starting diagnostic data capture...
+[2025-11-12 09:29:01] Successfully captured top_snapshot
+[2025-11-12 09:29:01] Successfully captured vmstat_snapshot
+[2025-11-12 09:29:01] Successfully captured netstat_connections
+[2025-11-12 09:29:01] Successfully captured disk_usage
+[2025-11-12 09:29:01] Successfully created archive: spike_diag_20251112_092901.tar.gz
+[2025-11-12 09:29:01] Starting archive cleanup...
+[2025-11-12 09:29:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:30:01] Current 5-minute Load Average: 2.44 (Threshold: 2.00)
+[2025-11-12 09:30:01] Threshold exceeded. Starting diagnostic data capture...
+[2025-11-12 09:30:02] Successfully captured top_snapshot
+[2025-11-12 09:30:02] Successfully captured vmstat_snapshot
+[2025-11-12 09:30:02] Successfully captured netstat_connections
+[2025-11-12 09:30:02] Successfully captured disk_usage
+[2025-11-12 09:30:02] Successfully created archive: spike_diag_20251112_093001.tar.gz
+[2025-11-12 09:30:02] Starting archive cleanup...
+[2025-11-12 09:30:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:31:01] Current 5-minute Load Average: 1.99 (Threshold: 2.00)
+[2025-11-12 09:31:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:31:01] Starting archive cleanup...
+[2025-11-12 09:31:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:32:01] Current 5-minute Load Average: 1.63 (Threshold: 2.00)
+[2025-11-12 09:32:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:32:01] Starting archive cleanup...
+[2025-11-12 09:32:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:33:01] Current 5-minute Load Average: 1.33 (Threshold: 2.00)
+[2025-11-12 09:33:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:33:01] Starting archive cleanup...
+[2025-11-12 09:33:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:34:01] Current 5-minute Load Average: 1.08 (Threshold: 2.00)
+[2025-11-12 09:34:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:34:01] Starting archive cleanup...
+[2025-11-12 09:34:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:35:01] Current 5-minute Load Average: 0.88 (Threshold: 2.00)
+[2025-11-12 09:35:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:35:01] Starting archive cleanup...
+[2025-11-12 09:35:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:36:01] Current 5-minute Load Average: 0.72 (Threshold: 2.00)
+[2025-11-12 09:36:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:36:01] Starting archive cleanup...
+[2025-11-12 09:36:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:37:02] Current 5-minute Load Average: 0.59 (Threshold: 2.00)
+[2025-11-12 09:37:02] Load is within acceptable limits. No action taken.
+[2025-11-12 09:37:02] Starting archive cleanup...
+[2025-11-12 09:37:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:38:01] Current 5-minute Load Average: 0.48 (Threshold: 2.00)
+[2025-11-12 09:38:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:38:01] Starting archive cleanup...
+[2025-11-12 09:38:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:39:01] Current 5-minute Load Average: 0.39 (Threshold: 2.00)
+[2025-11-12 09:39:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:39:01] Starting archive cleanup...
+[2025-11-12 09:39:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:40:01] Current 5-minute Load Average: 0.31 (Threshold: 2.00)
+[2025-11-12 09:40:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:40:01] Starting archive cleanup...
+[2025-11-12 09:40:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:41:01] Current 5-minute Load Average: 0.26 (Threshold: 2.00)
+[2025-11-12 09:41:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:41:01] Starting archive cleanup...
+[2025-11-12 09:41:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:42:01] Current 5-minute Load Average: 0.21 (Threshold: 2.00)
+[2025-11-12 09:42:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:42:01] Starting archive cleanup...
+[2025-11-12 09:42:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:43:01] Current 5-minute Load Average: 0.17 (Threshold: 2.00)
+[2025-11-12 09:43:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:43:01] Starting archive cleanup...
+[2025-11-12 09:43:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:44:01] Current 5-minute Load Average: 0.15 (Threshold: 2.00)
+[2025-11-12 09:44:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:44:01] Starting archive cleanup...
+[2025-11-12 09:44:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:45:02] Current 5-minute Load Average: 0.12 (Threshold: 2.00)
+[2025-11-12 09:45:02] Load is within acceptable limits. No action taken.
+[2025-11-12 09:45:02] Starting archive cleanup...
+[2025-11-12 09:45:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:46:01] Current 5-minute Load Average: 0.09 (Threshold: 2.00)
+[2025-11-12 09:46:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:46:01] Starting archive cleanup...
+[2025-11-12 09:46:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:47:01] Current 5-minute Load Average: 0.09 (Threshold: 2.00)
+[2025-11-12 09:47:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:47:01] Starting archive cleanup...
+[2025-11-12 09:47:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:48:01] Current 5-minute Load Average: 0.07 (Threshold: 2.00)
+[2025-11-12 09:48:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:48:01] Starting archive cleanup...
+[2025-11-12 09:48:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:49:01] Current 5-minute Load Average: 0.06 (Threshold: 2.00)
+[2025-11-12 09:49:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:49:01] Starting archive cleanup...
+[2025-11-12 09:49:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:50:01] Current 5-minute Load Average: 0.04 (Threshold: 2.00)
+[2025-11-12 09:50:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:50:01] Starting archive cleanup...
+[2025-11-12 09:50:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:51:01] Current 5-minute Load Average: 0.03 (Threshold: 2.00)
+[2025-11-12 09:51:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:51:01] Starting archive cleanup...
+[2025-11-12 09:51:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:52:02] Current 5-minute Load Average: 0.03 (Threshold: 2.00)
+[2025-11-12 09:52:02] Load is within acceptable limits. No action taken.
+[2025-11-12 09:52:02] Starting archive cleanup...
+[2025-11-12 09:52:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:53:01] Current 5-minute Load Average: 0.02 (Threshold: 2.00)
+[2025-11-12 09:53:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:53:01] Starting archive cleanup...
+[2025-11-12 09:53:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:54:01] Current 5-minute Load Average: 0.01 (Threshold: 2.00)
+[2025-11-12 09:54:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:54:01] Starting archive cleanup...
+[2025-11-12 09:54:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:55:01] Current 5-minute Load Average: 0.01 (Threshold: 2.00)
+[2025-11-12 09:55:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:55:01] Starting archive cleanup...
+[2025-11-12 09:55:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:56:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 09:56:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:56:01] Starting archive cleanup...
+[2025-11-12 09:56:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:57:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 09:57:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:57:01] Starting archive cleanup...
+[2025-11-12 09:57:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:58:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 09:58:01] Load is within acceptable limits. No action taken.
+[2025-11-12 09:58:01] Starting archive cleanup...
+[2025-11-12 09:58:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 09:59:02] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 09:59:02] Load is within acceptable limits. No action taken.
+[2025-11-12 09:59:02] Starting archive cleanup...
+[2025-11-12 09:59:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:00:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:00:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:00:01] Starting archive cleanup...
+[2025-11-12 10:00:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:01:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:01:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:01:01] Starting archive cleanup...
+[2025-11-12 10:01:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:02:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:02:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:02:01] Starting archive cleanup...
+[2025-11-12 10:02:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:03:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:03:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:03:01] Starting archive cleanup...
+[2025-11-12 10:03:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:04:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:04:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:04:01] Starting archive cleanup...
+[2025-11-12 10:04:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:05:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:05:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:05:01] Starting archive cleanup...
+[2025-11-12 10:05:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:06:02] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:06:02] Load is within acceptable limits. No action taken.
+[2025-11-12 10:06:02] Starting archive cleanup...
+[2025-11-12 10:06:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:07:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:07:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:07:01] Starting archive cleanup...
+[2025-11-12 10:07:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:08:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:08:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:08:01] Starting archive cleanup...
+[2025-11-12 10:08:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:09:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:09:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:09:01] Starting archive cleanup...
+[2025-11-12 10:09:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:10:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:10:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:10:01] Starting archive cleanup...
+[2025-11-12 10:10:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:11:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:11:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:11:01] Starting archive cleanup...
+[2025-11-12 10:11:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:12:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:12:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:12:01] Starting archive cleanup...
+[2025-11-12 10:12:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:13:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:13:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:13:01] Starting archive cleanup...
+[2025-11-12 10:13:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:14:02] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:14:02] Load is within acceptable limits. No action taken.
+[2025-11-12 10:14:02] Starting archive cleanup...
+[2025-11-12 10:14:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:15:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:15:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:15:01] Starting archive cleanup...
+[2025-11-12 10:15:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:16:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:16:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:16:01] Starting archive cleanup...
+[2025-11-12 10:16:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:17:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:17:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:17:01] Starting archive cleanup...
+[2025-11-12 10:17:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:18:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:18:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:18:01] Starting archive cleanup...
+[2025-11-12 10:18:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:19:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:19:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:19:01] Starting archive cleanup...
+[2025-11-12 10:19:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:20:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:20:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:20:01] Starting archive cleanup...
+[2025-11-12 10:20:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:21:02] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:21:02] Load is within acceptable limits. No action taken.
+[2025-11-12 10:21:02] Starting archive cleanup...
+[2025-11-12 10:21:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:22:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:22:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:22:01] Starting archive cleanup...
+[2025-11-12 10:22:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:23:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:23:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:23:01] Starting archive cleanup...
+[2025-11-12 10:23:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:24:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:24:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:24:01] Starting archive cleanup...
+[2025-11-12 10:24:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:25:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:25:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:25:01] Starting archive cleanup...
+[2025-11-12 10:25:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:26:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:26:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:26:01] Starting archive cleanup...
+[2025-11-12 10:26:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:27:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:27:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:27:01] Starting archive cleanup...
+[2025-11-12 10:27:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:28:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:28:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:28:01] Starting archive cleanup...
+[2025-11-12 10:28:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:29:02] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:29:02] Load is within acceptable limits. No action taken.
+[2025-11-12 10:29:02] Starting archive cleanup...
+[2025-11-12 10:29:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:30:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:30:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:30:01] Starting archive cleanup...
+[2025-11-12 10:30:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:31:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:31:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:31:01] Starting archive cleanup...
+[2025-11-12 10:31:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:32:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:32:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:32:01] Starting archive cleanup...
+[2025-11-12 10:32:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:33:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:33:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:33:01] Starting archive cleanup...
+[2025-11-12 10:33:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:34:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:34:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:34:01] Starting archive cleanup...
+[2025-11-12 10:34:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:35:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:35:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:35:01] Starting archive cleanup...
+[2025-11-12 10:35:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:36:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:36:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:36:01] Starting archive cleanup...
+[2025-11-12 10:36:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:37:02] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:37:02] Load is within acceptable limits. No action taken.
+[2025-11-12 10:37:02] Starting archive cleanup...
+[2025-11-12 10:37:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:38:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:38:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:38:01] Starting archive cleanup...
+[2025-11-12 10:38:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:39:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:39:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:39:01] Starting archive cleanup...
+[2025-11-12 10:39:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:40:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:40:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:40:01] Starting archive cleanup...
+[2025-11-12 10:40:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:41:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:41:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:41:01] Starting archive cleanup...
+[2025-11-12 10:41:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:42:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:42:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:42:01] Starting archive cleanup...
+[2025-11-12 10:42:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:43:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:43:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:43:01] Starting archive cleanup...
+[2025-11-12 10:43:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:44:02] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:44:02] Load is within acceptable limits. No action taken.
+[2025-11-12 10:44:02] Starting archive cleanup...
+[2025-11-12 10:44:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:45:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:45:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:45:01] Starting archive cleanup...
+[2025-11-12 10:45:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:46:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:46:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:46:01] Starting archive cleanup...
+[2025-11-12 10:46:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:47:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:47:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:47:01] Starting archive cleanup...
+[2025-11-12 10:47:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:48:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:48:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:48:01] Starting archive cleanup...
+[2025-11-12 10:48:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:49:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:49:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:49:01] Starting archive cleanup...
+[2025-11-12 10:49:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:50:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:50:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:50:01] Starting archive cleanup...
+[2025-11-12 10:50:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:51:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:51:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:51:01] Starting archive cleanup...
+[2025-11-12 10:51:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:52:02] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:52:02] Load is within acceptable limits. No action taken.
+[2025-11-12 10:52:02] Starting archive cleanup...
+[2025-11-12 10:52:02] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:53:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:53:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:53:01] Starting archive cleanup...
+[2025-11-12 10:53:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:54:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:54:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:54:01] Starting archive cleanup...
+[2025-11-12 10:54:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:55:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:55:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:55:01] Starting archive cleanup...
+[2025-11-12 10:55:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:56:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:56:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:56:01] Starting archive cleanup...
+[2025-11-12 10:56:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:57:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:57:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:57:01] Starting archive cleanup...
+[2025-11-12 10:57:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:58:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:58:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:58:01] Starting archive cleanup...
+[2025-11-12 10:58:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 10:59:01] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 10:59:01] Load is within acceptable limits. No action taken.
+[2025-11-12 10:59:01] Starting archive cleanup...
+[2025-11-12 10:59:01] Cleanup complete. Total files deleted: 0
+[2025-11-12 11:00:02] Current 5-minute Load Average: 0.00 (Threshold: 2.00)
+[2025-11-12 11:00:02] Load is within acceptable limits. No action taken.
+[2025-11-12 11:00:02] Starting archive cleanup...
+[2025-11-12 11:00:02] Cleanup complete. Total files deleted: 0
